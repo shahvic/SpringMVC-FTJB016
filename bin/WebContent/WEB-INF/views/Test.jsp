@@ -7,13 +7,9 @@
  <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Spring MVC Test</title>
 </head>
 <body>
-${name}
-
-<% String data = (String)request.getAttribute("name");
-System.out.println("data===>"+data);
-%>
+JSP Works!!!!
 </body>
 </html>
